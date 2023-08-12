@@ -22,5 +22,8 @@ https://github.com/techyg/VzBot/blob/main/Mellow%20Fly%20Kit%20Suggestions%20VzB
 
 https://github.com/techyg/VzBot/blob/main/2020%20Endcap%20-%20Mellow%20Fly%20330%20Remix.stl
 
+# Config & Slicer Files
+
+Coming soon.. I will be posting my printer config files as well as slicer files (Prusa Slicer).
 
    
