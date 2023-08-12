@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=h90rvTm2mc8&list=PLpQnpsv1trbRPkbdpc53gmuK3JUCKi
 
 # Detailed Info
 
-* This content is intended to augment my videos and has more detail that may be helpful for you. This document also includes links to additional components and recommendations for tools that you may need for your build. 
+This content is intended to augment my videos and has more detail that may be helpful for you. This document also includes links to additional components and recommendations for tools that you may need for your build. 
 
 https://github.com/techyg/VzBot/blob/main/Mellow%20VZ%20Bot%20330%20Initial%20impressions.pdf
 
@@ -18,7 +18,7 @@ https://github.com/techyg/VzBot/blob/main/Mellow%20Fly%20Kit%20Suggestions%20VzB
 
 # Printed Parts
 
-* 2020 Endscap - Mellow Fly 330 Remix.stl: The stock parts for the 2020 covers are too long and hit the bolt. I created the remix that will work with the Mellow Fly extrusion. You will need to print 8 of these.
+2020 Endscap - Mellow Fly 330 Remix.stl: The stock parts for the 2020 covers are too long and hit the bolt. I created the remix that will work with the Mellow Fly extrusion. You will need to print 8 of these.
 
 https://github.com/techyg/VzBot/blob/main/2020%20Endcap%20-%20Mellow%20Fly%20330%20Remix.stl
 
