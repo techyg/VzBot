@@ -6,6 +6,10 @@ Check out my videos here to learn more about this build, including printed part 
 
 https://www.youtube.com/watch?v=h90rvTm2mc8&list=PLpQnpsv1trbRPkbdpc53gmuK3JUCKimgY
 
+Based in the US? Buy your VzBot from Provok3d, who sponsored my build.
+
+https://provok3d.com/product/mellow-vz330-awd/?v=0a10a0b3e53b
+
 # Detailed Info
 
 This content is intended to augment my videos and has more detail that may be helpful for you. This document also includes links to additional components and recommendations for tools that you may need for your build. 
