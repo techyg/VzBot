@@ -7,8 +7,7 @@ Information:
 
 https://github.com/techyg/VzBot/blob/main/Mellow%20VZ%20Bot%20330%20Initial%20impressions.pdf
 
-
-* The kit also has several missing fasteners and room for improvement. I list the missing fastners here as well as some other suggestions for improving the kit.
+*** The kit also has several missing fasteners and room for improvement. ** This is not a comprehensive list, but will give you an idea of what additional components you may need to purchase for your kit. I list the missing fastners here as well as some other suggestions for improving the kit.
 
 https://github.com/techyg/VzBot/blob/main/Mellow%20Fly%20Kit%20Suggestions%20VzBot%20330%20Kit.pdf
 
