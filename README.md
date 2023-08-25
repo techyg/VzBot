@@ -28,6 +28,6 @@ VzHextrudort_Motor_Spacer_v1.stl: This helps insulate the motor the heat. I ran 
 
 # Config & Slicer Files
 
-Coming soon.. I will be posting my printer config files as well as slicer files (Prusa Slicer).
+This folder includes all of the printer.cfg and related files that I use. Files are all based on the "stock" VzBot configuration. 
 
    
