@@ -24,7 +24,9 @@ https://github.com/techyg/VzBot/blob/main/Mellow%20Fly%20Kit%20Suggestions%20VzB
 
 2020 Endscap - Mellow Fly 330 Remix.stl: The stock parts for the 2020 covers are too long and hit the bolt. I created the remix that will work with the Mellow Fly extrusion. You will need to print 8 of these.
 
-https://github.com/techyg/VzBot/blob/main/2020%20Endcap%20-%20Mellow%20Fly%20330%20Remix.stl
+https://github.com/techyg/VzBot/blob/main/VzHextrudort_Motor_Spacer_v1.stl
+
+VzHextrudort_Motor_Spacer_v1.stl: This helps insulate the motor the heat. I ran into an issue where my motor was causing lower temp filament (PETG) to deform/clog in the extruder due to excessive heat. This is only .5mm thick- print this at a low layer height (.1mm is what I used). 
 
 # Config & Slicer Files
 
