@@ -26,6 +26,8 @@ https://github.com/techyg/VzBot/blob/main/Mellow%20Fly%20Kit%20Suggestions%20VzB
 
 VzHextrudort_Motor_Spacer_v1.stl: This helps insulate the motor the heat. I ran into an issue where my motor was causing lower temp filament (PETG) to deform/clog in the extruder due to excessive heat. This is only .5mm thick- print this at a low layer height (.1mm is what I used). I remixed this, original part is from Thingiverse. https://www.thingiverse.com/thing:5777803
 
+If you plan to print PLA or PETG, I definitely recommend using the motor spacer / heat shield. In my testing, I noticed a significant difference in the temp of the extruder vs. the motor, compared to NOT using it. This is because the motor will transfer heat to the extruder much more easily without the motor shield. While it was a little challenging to get exact temps of the motor, using an IR gun I never exceed 60C temps on the extruder. Note that I also did not have the top hat on when printing (but doors were closed), and I also lowered my motor current to .6. 
+
 # Config & Slicer Files
 
 This folder includes all of the printer.cfg and related files that I use. Files are all based on the "stock" VzBot configuration. 
